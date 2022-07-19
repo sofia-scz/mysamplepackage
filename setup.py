@@ -8,7 +8,7 @@ setuptools.setup(
 	   packages=['mysamplepackage'],
 	   version='0.0.1a0',
 	   description=('This is a sample package.'),
-	   url='https://www.google.com/',
+	   url='https://github.com/sofia-scz/mysamplepackage',
 	   author='Package Author',
 	   install_requires=['numpy','matplotlib'], 
 	   classifiers=[
